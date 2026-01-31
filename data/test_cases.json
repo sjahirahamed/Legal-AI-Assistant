@@ -1,0 +1,198 @@
+[
+  {
+    "query": "A man stabbed another man during an argument but the victim survived with serious injuries.",
+    "expected_sections": ["IPC 324", "IPC 325", "IPC 307"]
+  },
+  {
+    "query": "A driver hit a pedestrian while driving rashly and caused the person's death.",
+    "expected_sections": ["IPC 304A"]
+  },
+  {
+    "query": "A man forcibly had sexual intercourse with a woman without her consent.",
+    "expected_sections": ["IPC 375", "IPC 376"]
+  },
+  {
+    "query": "A husband continually threatens and mentally abuses his wife.",
+    "expected_sections": ["IPC 498A", "IPC 506"]
+  },
+  {
+    "query": "A shop employee secretly stole money from the shop’s cash counter.",
+    "expected_sections": ["IPC 381", "IPC 379"]
+  },
+  {
+    "query": "Five men surrounded a traveler on the highway and robbed him.",
+    "expected_sections": ["IPC 391", "IPC 392", "IPC 395"]
+  },
+  {
+    "query": "A student gave false information to the police to get another student into trouble.",
+    "expected_sections": ["IPC 182"]
+  },
+  {
+    "query": "Someone destroyed another person's car windshield intentionally.",
+    "expected_sections": ["IPC 427"]
+  },
+  {
+    "query": "A man shouted obscene songs in a public market.",
+    "expected_sections": ["IPC 291"]
+  },
+  {
+    "query": "A person sold obscene magazines to a minor.",
+    "expected_sections": ["IPC 293"]
+  },
+  {
+    "query": "A man touched a woman inappropriately on a crowded bus.",
+    "expected_sections": ["IPC 354", "IPC 509"]
+  },
+  {
+    "query": "A woman was cheated by a man who promised her a job and took money from her.",
+    "expected_sections": ["IPC 420"]
+  },
+  {
+    "query": "A person stole a motorcycle parked outside someone's house.",
+    "expected_sections": ["IPC 379"]
+  },
+  {
+    "query": "A worker misused company funds that were entrusted to him.",
+    "expected_sections": ["IPC 406"]
+  },
+  {
+    "query": "A group of people broke into a house and stole valuables.",
+    "expected_sections": ["IPC 380"]
+  },
+  {
+    "query": "A criminal hid the weapon used in a crime to destroy evidence.",
+    "expected_sections": ["IPC 201"]
+  },
+  {
+    "query": "A mentally unstable person accidentally hurt someone while not understanding their actions.",
+    "expected_sections": ["IPC 84"]
+  },
+  {
+    "query": "A drunk man caused a road accident by rash driving but no one died.",
+    "expected_sections": ["IPC 279", "IPC 304A"]
+  },
+  {
+    "query": "A man threatened another man that he would kill him if he didn't pay money.",
+    "expected_sections": ["IPC 506"]
+  },
+  {
+    "query": "A person damaged public property intentionally during a protest.",
+    "expected_sections": ["IPC 427"]
+  },
+  {
+    "query": "A husband physically beats his wife frequently.",
+    "expected_sections": ["IPC 498A", "IPC 323"]
+  },
+  {
+    "query": "A man tried to shoot another man but missed.",
+    "expected_sections": ["IPC 307"]
+  },
+  {
+    "query": "Someone stole jewellery from a locked cupboard inside a house.",
+    "expected_sections": ["IPC 380"]
+  },
+  {
+    "query": "A clerk stole confidential documents and sold them.",
+    "expected_sections": ["IPC 381", "IPC 406"]
+  },
+  {
+    "query": "A person spread obscene photos online.",
+    "expected_sections": ["IPC 292"]
+  },
+  {
+    "query": "A man followed a woman and used insulting words toward her.",
+    "expected_sections": ["IPC 509", "IPC 354"]
+  },
+  {
+    "query": "A person sold pornographic videos illegally.",
+    "expected_sections": ["IPC 292"]
+  },
+  {
+    "query": "A father slapped his son and caused minor injuries.",
+    "expected_sections": ["IPC 323"]
+  },
+  {
+    "query": "A person stabbed another with a broken bottle during a fight.",
+    "expected_sections": ["IPC 324", "IPC 325"]
+  },
+  {
+    "query": "A man killed another man after planning the act for weeks.",
+    "expected_sections": ["IPC 300", "IPC 302"]
+  },
+  {
+    "query": "A man accidentally killed his friend while careless driving.",
+    "expected_sections": ["IPC 304A"]
+  },
+  {
+    "query": "A thief stole mobile phones from a shop at night.",
+    "expected_sections": ["IPC 380"]
+  },
+  {
+    "query": "A person threatened to publish false allegations unless paid money.",
+    "expected_sections": ["IPC 506"]
+  },
+  {
+    "query": "A shopkeeper cheated a customer by giving fake gold.",
+    "expected_sections": ["IPC 420"]
+  },
+  {
+    "query": "A person intentionally set fire to a neighbor's car.",
+    "expected_sections": ["IPC 427"]
+  },
+  {
+    "query": "A man forced a woman to kiss him against her will.",
+    "expected_sections": ["IPC 354"]
+  },
+  {
+    "query": "Six men broke into a home and robbed the family.",
+    "expected_sections": ["IPC 391", "IPC 392", "IPC 395"]
+  },
+  {
+    "query": "A cyclist hit a pedestrian due to negligent riding causing injuries.",
+    "expected_sections": ["IPC 337", "IPC 338", "IPC 279"]
+  },
+  {
+    "query": "A man exposed obscene content in front of children.",
+    "expected_sections": ["IPC 292", "IPC 293"]
+  },
+  {
+    "query": "A man falsely reported to police that his neighbor stole his bike.",
+    "expected_sections": ["IPC 182"]
+  },
+  {
+    "query": "A businessman misused investment money entrusted to him.",
+    "expected_sections": ["IPC 406"]
+  },
+  {
+    "query": "A student stole another student's laptop from the hostel room.",
+    "expected_sections": ["IPC 380"]
+  },
+  {
+    "query": "A man kept threatening a shop owner to give him free products.",
+    "expected_sections": ["IPC 506"]
+  },
+  {
+    "query": "A car driver sped through a red light and caused injuries to pedestrians.",
+    "expected_sections": ["IPC 279", "IPC 337"]
+  },
+  {
+    "query": "A man robbed a woman by snatching her purse on a deserted street.",
+    "expected_sections": ["IPC 392"]
+  },
+  {
+    "query": "A man tried strangling another person but he survived.",
+    "expected_sections": ["IPC 307"]
+  },
+  {
+    "query": "A person intentionally damaged CCTV cameras of a shop.",
+    "expected_sections": ["IPC 427"]
+  },
+  {
+    "query": "A group threatened a shopkeeper to hand over money.",
+    "expected_sections": ["IPC 506", "IPC 392"]
+  },
+  {
+    "query": "A man held a knife to a woman's neck and demanded money.",
+    "expected_sections": ["IPC 392", "IPC 324"]
+  }
+]

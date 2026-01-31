@@ -1,0 +1,3162 @@
+[
+  {
+    "query": "Someone destroyed another person's car windshield intentionally. What sections apply?",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A male intimidated another man that he would murder him if he didn't pay money.",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "A criminal hid the weapon used in a crime to destroy evidence. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 201"
+    ]
+  },
+  {
+    "query": "A woman was cheated by a man who promised her a job and took money from her. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 420"
+    ]
+  },
+  {
+    "query": "If the following happened: A person stabbed another with a broken bottle during a fight.",
+    "expected_sections": [
+      "IPC 324",
+      "IPC 325"
+    ]
+  },
+  {
+    "query": "Someone destroyed another person's car windshield intentionally. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "A worker misused company funds that were entrusted to him. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "User reported: A man forced a woman to kiss him against her will.",
+    "expected_sections": [
+      "IPC 354"
+    ]
+  },
+  {
+    "query": "A woman was cheated by a man who promised her a job and took money from her. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 420"
+    ]
+  },
+  {
+    "query": "If the following happened: A person intentionally damaged CCTV cameras of a shop.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "A person mugged a individual by snatching her purse on a deserted street. What sections apply?",
+    "expected_sections": [
+      "IPC 392"
+    ]
+  },
+  {
+    "query": "A man tried to shoot another man but missed.",
+    "expected_sections": [
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "A person falsely reported to police that his neighbor removed his bike. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 182"
+    ]
+  },
+  {
+    "query": "A drunk male caused a road accident by rash driving but no one died.",
+    "expected_sections": [
+      "IPC 279",
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "User reported: Five men surrounded a traveler on the highway and robbed him.",
+    "expected_sections": [
+      "IPC 391",
+      "IPC 392",
+      "IPC 395"
+    ]
+  },
+  {
+    "query": "A student took another student's laptop from the hostel room. What sections apply?",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "If the following happened: A group threatened a shopkeeper to hand over money. | intimidate",
+    "expected_sections": [
+      "IPC 506",
+      "IPC 392"
+    ]
+  },
+  {
+    "query": "A husband continually threatens and mentally abuses his wife. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 498A",
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "User reported: A person slayed another man after planning the act for weeks.",
+    "expected_sections": [
+      "IPC 300",
+      "IPC 302"
+    ]
+  },
+  {
+    "query": "If the following happened: A person intimidated to publish false allegations unless paid money.",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "A man killed another man after planning the act for weeks.",
+    "expected_sections": [
+      "IPC 300",
+      "IPC 302"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A man exposed obscene content in front of children.",
+    "expected_sections": [
+      "IPC 292",
+      "IPC 293"
+    ]
+  },
+  {
+    "query": "User reported: A student gave false information to the police to get another student into trouble.",
+    "expected_sections": [
+      "IPC 182"
+    ]
+  },
+  {
+    "query": "In one case: A person stabbed another with a broken bottle during a fight.",
+    "expected_sections": [
+      "IPC 324",
+      "IPC 325"
+    ]
+  },
+  {
+    "query": "A man followed a woman and used insulting words toward her.",
+    "expected_sections": [
+      "IPC 509",
+      "IPC 354"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A person damaged public property intentionally during a protest.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "A husband physically beats his wife frequently. What sections apply?",
+    "expected_sections": [
+      "IPC 498A",
+      "IPC 323"
+    ]
+  },
+  {
+    "query": "If the following happened: A student gave false information to the police to get another student into trouble.",
+    "expected_sections": [
+      "IPC 182"
+    ]
+  },
+  {
+    "query": "A man kept threatening a shop owner to give him free products.",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A individual robbed a individual by snatching her purse on a deserted street.",
+    "expected_sections": [
+      "IPC 392"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A criminal hid the weapon used in a crime to destroy evidence.",
+    "expected_sections": [
+      "IPC 201"
+    ]
+  },
+  {
+    "query": "A shop employee secretly took money from the shop’s cash counter. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 381",
+      "IPC 379"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A shop employee secretly removed money from the shop’s cash counter.",
+    "expected_sections": [
+      "IPC 381",
+      "IPC 379"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A businessman misused investment money entrusted to him.",
+    "expected_sections": [
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "In one case: A businessmale misused investment money entrusted to him.",
+    "expected_sections": [
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "A businessmale misused investment money entrusted to him.",
+    "expected_sections": [
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "User reported: A father slapped his son and caused minor injuries. | harm",
+    "expected_sections": [
+      "IPC 323"
+    ]
+  },
+  {
+    "query": "In one case: A husband continually threatens and mentally abuses his wife.",
+    "expected_sections": [
+      "IPC 498A",
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "A person touched a female inappropriately on a crowded bus. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 354",
+      "IPC 509"
+    ]
+  },
+  {
+    "query": "A businessman misused investment money entrusted to him. What sections apply?",
+    "expected_sections": [
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "A man robbed a woman by snatching her purse on a deserted street.",
+    "expected_sections": [
+      "IPC 392"
+    ]
+  },
+  {
+    "query": "A student gave false information to the police to get another student into trouble. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 182"
+    ]
+  },
+  {
+    "query": "In one case: A criminal hid the weapon used in a crime to destroy evidence.",
+    "expected_sections": [
+      "IPC 201"
+    ]
+  },
+  {
+    "query": "A criminal hid the weapon used in a crime to destroy evidence. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 201"
+    ]
+  },
+  {
+    "query": "Six men broke into a home and mugged the family. What sections apply?",
+    "expected_sections": [
+      "IPC 391",
+      "IPC 392",
+      "IPC 395"
+    ]
+  },
+  {
+    "query": "A father slapped his son and caused minor injuries. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 323"
+    ]
+  },
+  {
+    "query": "In one case: A drunk man caused a road accident by rash driving but no one died.",
+    "expected_sections": [
+      "IPC 279",
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "Someone stole jewellery from a locked cupboard inside a house.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A group threatened a shopkeeper to hand over money. | intimidate",
+    "expected_sections": [
+      "IPC 506",
+      "IPC 392"
+    ]
+  },
+  {
+    "query": "A person sold pornographic videos illegally.",
+    "expected_sections": [
+      "IPC 292"
+    ]
+  },
+  {
+    "query": "A person forcibly had sexual intercourse with a female without her consent.",
+    "expected_sections": [
+      "IPC 375",
+      "IPC 376"
+    ]
+  },
+  {
+    "query": "Someone destroyed another person's car windshield intentionally. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "A individual followed a female and used insulting words toward her. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 509",
+      "IPC 354"
+    ]
+  },
+  {
+    "query": "In one case: A husband continually threatens and mentally abuses his wife. | menace",
+    "expected_sections": [
+      "IPC 498A",
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A father slapped his son and caused minor injuries.",
+    "expected_sections": [
+      "IPC 323"
+    ]
+  },
+  {
+    "query": "A driver struck a pedestrian while driving rashly and caused the person's death.",
+    "expected_sections": [
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "A person intimidated to publish false allegations unless paid money. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "In one case: A thief removed mobile phones from a shop at night.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A person snatched a motorcycle parked outside someone's house.",
+    "expected_sections": [
+      "IPC 379"
+    ]
+  },
+  {
+    "query": "A thief took mobile phones from a shop at night. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "User reported: A group intimidated a shopkeeper to hand over money.",
+    "expected_sections": [
+      "IPC 506",
+      "IPC 392"
+    ]
+  },
+  {
+    "query": "A man shouted obscene songs in a public market. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 291"
+    ]
+  },
+  {
+    "query": "User reported: A person intentionally damaged CCTV cameras of a shop.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "A person followed a female and used insulting words toward her. What sections apply?",
+    "expected_sections": [
+      "IPC 509",
+      "IPC 354"
+    ]
+  },
+  {
+    "query": "User reported: A drunk individual caused a road accident by rash driving but no one died.",
+    "expected_sections": [
+      "IPC 279",
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "A man exposed obscene content in front of children.",
+    "expected_sections": [
+      "IPC 292",
+      "IPC 293"
+    ]
+  },
+  {
+    "query": "A man held a knife to a woman's neck and demanded money. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 392",
+      "IPC 324"
+    ]
+  },
+  {
+    "query": "A man threatened another man that he would kill him if he didn't pay money.",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "User reported: A person exposed obscene content in front of children.",
+    "expected_sections": [
+      "IPC 292",
+      "IPC 293"
+    ]
+  },
+  {
+    "query": "A driver hit a pedestrian while driving rashly and caused the person's death.",
+    "expected_sections": [
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "A person sold obscene magazines to a minor. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 293"
+    ]
+  },
+  {
+    "query": "If the following happened: A worker misused company funds that were entrusted to him.",
+    "expected_sections": [
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "If the following happened: A person sold pornographic videos illegally.",
+    "expected_sections": [
+      "IPC 292"
+    ]
+  },
+  {
+    "query": "Someone removed jewellery from a locked cupboard inside a house. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "A person sold obscene magazines to a minor. What sections apply?",
+    "expected_sections": [
+      "IPC 293"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A mentally unstable person accidentally hurt someone while not understanding their actions.",
+    "expected_sections": [
+      "IPC 84"
+    ]
+  },
+  {
+    "query": "A worker misused company funds that were entrusted to him. What sections apply?",
+    "expected_sections": [
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "User reported: A father slapped his son and caused minor injuries.",
+    "expected_sections": [
+      "IPC 323"
+    ]
+  },
+  {
+    "query": "Six men broke into a home and robbed the family.",
+    "expected_sections": [
+      "IPC 391",
+      "IPC 392",
+      "IPC 395"
+    ]
+  },
+  {
+    "query": "User reported: A driver hit a pedestrian while driving rashly and caused the person's death.",
+    "expected_sections": [
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "A individual tried strangling another person but he survived. What sections apply?",
+    "expected_sections": [
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "A thief stole mobile phones from a shop at night.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "A person damaged public property intentionally during a protest. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "If the following happened: A person intentionally damaged CCTV cameras of a shop.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "User reported: A group of people broke into a house and removed valuables.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "Someone snatched jewellery from a locked cupboard inside a house. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "A person spread obscene photos online. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 292"
+    ]
+  },
+  {
+    "query": "If the following happened: A individual accidentally cause death ofed his friend while vehicleeless driving.",
+    "expected_sections": [
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "In one case: A man falsely reported to police that his neighbor stole his bike.",
+    "expected_sections": [
+      "IPC 182"
+    ]
+  },
+  {
+    "query": "A student gave false information to the police to get another student into trouble.",
+    "expected_sections": [
+      "IPC 182"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A man forcibly had sexual intercourse with a woman without her consent.",
+    "expected_sections": [
+      "IPC 375",
+      "IPC 376"
+    ]
+  },
+  {
+    "query": "A clerk stole confidential documents and sold them. What sections apply?",
+    "expected_sections": [
+      "IPC 381",
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A husband physically beats his wife frequently.",
+    "expected_sections": [
+      "IPC 498A",
+      "IPC 323"
+    ]
+  },
+  {
+    "query": "In one case: A thief stole mobile phones from a shop at night.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A thief stole mobile phones from a shop at night.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "If the following happened: A shopkeeper cheated a customer by giving fake gold.",
+    "expected_sections": [
+      "IPC 420"
+    ]
+  },
+  {
+    "query": "A clerk stole confidential documents and sold them. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 381",
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "A father slapped his son and caused minor injuries. Please identify the relevant IPC sections. | wounds",
+    "expected_sections": [
+      "IPC 323"
+    ]
+  },
+  {
+    "query": "In one case: A person threatened to publish false allegations unless paid money.",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "User reported: A person stabbed another man during an argument but the victim survived with serious injuries.",
+    "expected_sections": [
+      "IPC 324",
+      "IPC 325",
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "A person damaged public property intentionally during a protest. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A man exposed obscene content in front of children.",
+    "expected_sections": [
+      "IPC 292",
+      "IPC 293"
+    ]
+  },
+  {
+    "query": "A man forced a woman to kiss him against her will.",
+    "expected_sections": [
+      "IPC 354"
+    ]
+  },
+  {
+    "query": "A husband continually threatens and mentally abuses his wife.",
+    "expected_sections": [
+      "IPC 498A",
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "A man kept threatening a shop owner to give him free products. Please identify the relevant IPC sections. | menace",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A cyclist hit a pedestrian due to negligent riding causing injuries.",
+    "expected_sections": [
+      "IPC 337",
+      "IPC 338",
+      "IPC 279"
+    ]
+  },
+  {
+    "query": "A person shouted obscene songs in a public market. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 291"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A shop employee secretly removed money from the shop’s cash counter.",
+    "expected_sections": [
+      "IPC 381",
+      "IPC 379"
+    ]
+  },
+  {
+    "query": "A male forced a individual to kiss him against her will. What sections apply?",
+    "expected_sections": [
+      "IPC 354"
+    ]
+  },
+  {
+    "query": "A man killed another man after planning the act for weeks.",
+    "expected_sections": [
+      "IPC 300",
+      "IPC 302"
+    ]
+  },
+  {
+    "query": "User reported: A person intentionally set fire to a neighbor's motor vehicle.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "If the following happened: A person cause death ofed another man after planning the act for weeks.",
+    "expected_sections": [
+      "IPC 300",
+      "IPC 302"
+    ]
+  },
+  {
+    "query": "User reported: A person exposed obscene content in front of children.",
+    "expected_sections": [
+      "IPC 292",
+      "IPC 293"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A group threatened a shopkeeper to hand over money.",
+    "expected_sections": [
+      "IPC 506",
+      "IPC 392"
+    ]
+  },
+  {
+    "query": "In one case: A auto driver sped through a red light and caused injuries to pedestrians. | wounds",
+    "expected_sections": [
+      "IPC 279",
+      "IPC 337"
+    ]
+  },
+  {
+    "query": "If the following happened: A thief stole mobile phones from a shop at night.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "If the following happened: A person threatened to publish false allegations unless paid money. | menace",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "In one case: A person sold obscene magazines to a minor.",
+    "expected_sections": [
+      "IPC 293"
+    ]
+  },
+  {
+    "query": "A cyclist struck a pedestrian due to negligent riding causing injuries. What sections apply?",
+    "expected_sections": [
+      "IPC 337",
+      "IPC 338",
+      "IPC 279"
+    ]
+  },
+  {
+    "query": "A person sold pornographic videos illegally. What sections apply?",
+    "expected_sections": [
+      "IPC 292"
+    ]
+  },
+  {
+    "query": "In one case: A man tried to shoot another man but missed.",
+    "expected_sections": [
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "User reported: A man kept threatening a shop owner to give him free products.",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "Five men surrounded a traveler on the highway and held up him. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 391",
+      "IPC 392",
+      "IPC 395"
+    ]
+  },
+  {
+    "query": "A husband physically beats his wife frequently. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 498A",
+      "IPC 323"
+    ]
+  },
+  {
+    "query": "User reported: A man falsely reported to police that his neighbor stole his bike.",
+    "expected_sections": [
+      "IPC 182"
+    ]
+  },
+  {
+    "query": "A man touched a woman inappropriately on a crowded bus.",
+    "expected_sections": [
+      "IPC 354",
+      "IPC 509"
+    ]
+  },
+  {
+    "query": "Six men broke into a home and held up the family. What sections apply?",
+    "expected_sections": [
+      "IPC 391",
+      "IPC 392",
+      "IPC 395"
+    ]
+  },
+  {
+    "query": "A car driver sped through a red light and caused injuries to pedestrians. | harm",
+    "expected_sections": [
+      "IPC 279",
+      "IPC 337"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A person held up a individual by snatching her purse on a deserted street.",
+    "expected_sections": [
+      "IPC 392"
+    ]
+  },
+  {
+    "query": "A individual shouted obscene songs in a public market. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 291"
+    ]
+  },
+  {
+    "query": "A businessman misused investment money entrusted to him.",
+    "expected_sections": [
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "A individual kept threatening a shop owner to give him free products. Please identify the relevant IPC sections. | intimidate",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "User reported: A group menaced a shopkeeper to hand over money.",
+    "expected_sections": [
+      "IPC 506",
+      "IPC 392"
+    ]
+  },
+  {
+    "query": "A person intentionally set fire to a neighbor's car. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "A auto driver sped through a red light and caused injuries to pedestrians. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 279",
+      "IPC 337"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: Six men broke into a home and robbed the family.",
+    "expected_sections": [
+      "IPC 391",
+      "IPC 392",
+      "IPC 395"
+    ]
+  },
+  {
+    "query": "If the following happened: A student stole another student's laptop from the hostel room.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "User reported: A person stabbed another with a broken bottle during a fight.",
+    "expected_sections": [
+      "IPC 324",
+      "IPC 325"
+    ]
+  },
+  {
+    "query": "A person intentionally set fire to a neighbor's auto. What sections apply?",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "User reported: A person touched a individual inappropriately on a crowded bus.",
+    "expected_sections": [
+      "IPC 354",
+      "IPC 509"
+    ]
+  },
+  {
+    "query": "A student removed another student's laptop from the hostel room. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "User reported: A person spread obscene photos online.",
+    "expected_sections": [
+      "IPC 292"
+    ]
+  },
+  {
+    "query": "A man tried to shoot another man but missed. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "A drunk individual caused a road accident by rash driving but no one died. What sections apply?",
+    "expected_sections": [
+      "IPC 279",
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "A father slapped his son and caused minor injuries. What sections apply?",
+    "expected_sections": [
+      "IPC 323"
+    ]
+  },
+  {
+    "query": "A businessperson misused investment money entrusted to him.",
+    "expected_sections": [
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "A person shouted obscene songs in a public market. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 291"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A person intentionally damaged CCTV cameras of a shop.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "User reported: A womale was defrauded by a man who promised her a job and took money from her.",
+    "expected_sections": [
+      "IPC 420"
+    ]
+  },
+  {
+    "query": "A criminal hid the weapon used in a crime to destroy evidence.",
+    "expected_sections": [
+      "IPC 201"
+    ]
+  },
+  {
+    "query": "A individual stabbed another man during an argument but the victim survived with serious injuries. Please identify the relevant IPC sections. | wounds",
+    "expected_sections": [
+      "IPC 324",
+      "IPC 325",
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "User reported: A male tried to shoot another man but missed.",
+    "expected_sections": [
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "A shop employee secretly took money from the shop’s cash counter. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 381",
+      "IPC 379"
+    ]
+  },
+  {
+    "query": "Five men surrounded a traveler on the highway and robbed him.",
+    "expected_sections": [
+      "IPC 391",
+      "IPC 392",
+      "IPC 395"
+    ]
+  },
+  {
+    "query": "A person held a blade to a lady's neck and demanded money. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 392",
+      "IPC 324"
+    ]
+  },
+  {
+    "query": "If the following happened: A individual shouted obscene songs in a public market.",
+    "expected_sections": [
+      "IPC 291"
+    ]
+  },
+  {
+    "query": "User reported: A husband continually threatens and mentally abuses his wife.",
+    "expected_sections": [
+      "IPC 498A",
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "A mentally unstable person accidentally hurt someone while not understanding their actions. What sections apply? | injured",
+    "expected_sections": [
+      "IPC 84"
+    ]
+  },
+  {
+    "query": "If the following happened: A person threatened to publish false allegations unless paid money.",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "If the following happened: A shopkeeper scammed a customer by giving fake gold.",
+    "expected_sections": [
+      "IPC 420"
+    ]
+  },
+  {
+    "query": "If the following happened: A man forcibly had sexual intercourse with a woman without her consent.",
+    "expected_sections": [
+      "IPC 375",
+      "IPC 376"
+    ]
+  },
+  {
+    "query": "A man held a knife to a woman's neck and demanded money.",
+    "expected_sections": [
+      "IPC 392",
+      "IPC 324"
+    ]
+  },
+  {
+    "query": "A man followed a woman and used insulting words toward her. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 509",
+      "IPC 354"
+    ]
+  },
+  {
+    "query": "A group of people broke into a house and stole valuables.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "A man accidentally killed his friend while careless driving. What sections apply?",
+    "expected_sections": [
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "A person spread obscene photos online. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 292"
+    ]
+  },
+  {
+    "query": "A person intentionally damaged CCTV cameras of a shop. What sections apply?",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "In one case: A shop employee secretly removed money from the shop’s cash counter.",
+    "expected_sections": [
+      "IPC 381",
+      "IPC 379"
+    ]
+  },
+  {
+    "query": "In one case: A person intentionally damaged CCTV cameras of a shop.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "User reported: A individual accidentally murdered his friend while motor vehicleeless driving.",
+    "expected_sections": [
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "A drunk man caused a road accident by rash driving but no one died.",
+    "expected_sections": [
+      "IPC 279",
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "User reported: Five men surrounded a traveler on the highway and robbed him.",
+    "expected_sections": [
+      "IPC 391",
+      "IPC 392",
+      "IPC 395"
+    ]
+  },
+  {
+    "query": "A person forcibly had sexual intercourse with a lady without her consent. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 375",
+      "IPC 376"
+    ]
+  },
+  {
+    "query": "User reported: A person spread obscene photos online.",
+    "expected_sections": [
+      "IPC 292"
+    ]
+  },
+  {
+    "query": "A shop employee secretly stole money from the shop’s cash counter.",
+    "expected_sections": [
+      "IPC 381",
+      "IPC 379"
+    ]
+  },
+  {
+    "query": "A woindividual was scammed by a man who promised her a job and took money from her. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 420"
+    ]
+  },
+  {
+    "query": "In one case: A person exposed obscene content in front of children.",
+    "expected_sections": [
+      "IPC 292",
+      "IPC 293"
+    ]
+  },
+  {
+    "query": "If the following happened: A mentally unstable person accidentally hurt someone while not understanding their actions.",
+    "expected_sections": [
+      "IPC 84"
+    ]
+  },
+  {
+    "query": "A person intentionally set fire to a neighbor's car.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "In one case: A person stabbed another man during an argument but the victim survived with serious injuries.",
+    "expected_sections": [
+      "IPC 324",
+      "IPC 325",
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "A student gave false information to the police to get another student into trouble. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 182"
+    ]
+  },
+  {
+    "query": "User reported: Five men surrounded a traveler on the highway and mugged him.",
+    "expected_sections": [
+      "IPC 391",
+      "IPC 392",
+      "IPC 395"
+    ]
+  },
+  {
+    "query": "Six men broke into a home and mugged the family. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 391",
+      "IPC 392",
+      "IPC 395"
+    ]
+  },
+  {
+    "query": "A thief stole mobile phones from a shop at night.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "A person kept threatening a shop owner to give him free products. What sections apply?",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "A person sold pornographic videos illegally.",
+    "expected_sections": [
+      "IPC 292"
+    ]
+  },
+  {
+    "query": "A person sold pornographic videos illegally. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 292"
+    ]
+  },
+  {
+    "query": "A cyclist hit a pedestrian due to negligent riding causing injuries. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 337",
+      "IPC 338",
+      "IPC 279"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A person threatened to publish false allegations unless paid money.",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "Someone destroyed another person's vehicle windshield intentionally. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "Someone snatched jewellery from a locked cupboard inside a house. What sections apply?",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "A man forcibly had sexual intercourse with a woman without her consent.",
+    "expected_sections": [
+      "IPC 375",
+      "IPC 376"
+    ]
+  },
+  {
+    "query": "User reported: A man touched a woman inappropriately on a crowded bus.",
+    "expected_sections": [
+      "IPC 354",
+      "IPC 509"
+    ]
+  },
+  {
+    "query": "A student gave false information to the police to get another student into trouble. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 182"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A clerk removed confidential documents and sold them.",
+    "expected_sections": [
+      "IPC 381",
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "A student stole another student's laptop from the hostel room.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "Someone destroyed another person's car windshield intentionally.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "A person intentionally damaged CCTV cameras of a shop.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "A cyclist knocked a pedestrian due to negligent riding causing injuries. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 337",
+      "IPC 338",
+      "IPC 279"
+    ]
+  },
+  {
+    "query": "A driver knocked a pedestrian while driving rashly and caused the person's death.",
+    "expected_sections": [
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "A person sold pornographic videos illegally. What sections apply?",
+    "expected_sections": [
+      "IPC 292"
+    ]
+  },
+  {
+    "query": "A mentally unstable person accidentally hurt someone while not understanding their actions.",
+    "expected_sections": [
+      "IPC 84"
+    ]
+  },
+  {
+    "query": "A worker misused company funds that were entrusted to him.",
+    "expected_sections": [
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "If the following happened: A student gave false information to the police to get another student into trouble.",
+    "expected_sections": [
+      "IPC 182"
+    ]
+  },
+  {
+    "query": "A worker misused company funds that were entrusted to him.",
+    "expected_sections": [
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "A male followed a female and used insulting words toward her. What sections apply?",
+    "expected_sections": [
+      "IPC 509",
+      "IPC 354"
+    ]
+  },
+  {
+    "query": "Someone took jewellery from a locked cupboard inside a house. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "A shopkeeper defrauded a customer by giving fake gold. What sections apply?",
+    "expected_sections": [
+      "IPC 420"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A criminal hid the weapon used in a crime to destroy evidence.",
+    "expected_sections": [
+      "IPC 201"
+    ]
+  },
+  {
+    "query": "A man falsely reported to police that his neighbor stole his bike.",
+    "expected_sections": [
+      "IPC 182"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A person sold obscene magazines to a minor.",
+    "expected_sections": [
+      "IPC 293"
+    ]
+  },
+  {
+    "query": "A man stabbed another man during an argument but the victim survived with serious injuries.",
+    "expected_sections": [
+      "IPC 324",
+      "IPC 325",
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "If the following happened: A driver collided with a pedestrian while driving rashly and caused the person's death.",
+    "expected_sections": [
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "In one case: A group of people broke into a house and stole valuables.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "A man followed a woman and used insulting words toward her.",
+    "expected_sections": [
+      "IPC 509",
+      "IPC 354"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A auto driver sped through a red light and caused injuries to pedestrians.",
+    "expected_sections": [
+      "IPC 279",
+      "IPC 337"
+    ]
+  },
+  {
+    "query": "Someone took jewellery from a locked cupboard inside a house. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "A man falsely reported to police that his neighbor stole his bike. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 182"
+    ]
+  },
+  {
+    "query": "A person forced a individual to kiss him against her will.",
+    "expected_sections": [
+      "IPC 354"
+    ]
+  },
+  {
+    "query": "User reported: A person menaced another man that he would slay him if he didn't pay money.",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "A womale was defrauded by a man who promised her a job and took money from her. What sections apply?",
+    "expected_sections": [
+      "IPC 420"
+    ]
+  },
+  {
+    "query": "In one case: A womale was deceived by a man who promised her a job and took money from her.",
+    "expected_sections": [
+      "IPC 420"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A male held a blade to a female's neck and demanded money.",
+    "expected_sections": [
+      "IPC 392",
+      "IPC 324"
+    ]
+  },
+  {
+    "query": "A person intentionally set fire to a neighbor's car.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "A drunk man caused a road accident by rash driving but no one died. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 279",
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "A worker misused company funds that were entrusted to him.",
+    "expected_sections": [
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "In one case: A cyclist hit a pedestrian due to negligent riding causing injuries. | harm",
+    "expected_sections": [
+      "IPC 337",
+      "IPC 338",
+      "IPC 279"
+    ]
+  },
+  {
+    "query": "A man held a knife to a woman's neck and demanded money. What sections apply?",
+    "expected_sections": [
+      "IPC 392",
+      "IPC 324"
+    ]
+  },
+  {
+    "query": "A individual followed a lady and used insulting words toward her.",
+    "expected_sections": [
+      "IPC 509",
+      "IPC 354"
+    ]
+  },
+  {
+    "query": "A auto driver sped through a red light and caused injuries to pedestrians. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 279",
+      "IPC 337"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A person forced a lady to kiss him against her will.",
+    "expected_sections": [
+      "IPC 354"
+    ]
+  },
+  {
+    "query": "Six men broke into a home and mugged the family. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 391",
+      "IPC 392",
+      "IPC 395"
+    ]
+  },
+  {
+    "query": "A male tried to shoot another man but missed. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "A individual forced a individual to kiss him against her will. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 354"
+    ]
+  },
+  {
+    "query": "A woman was cheated by a man who promised her a job and took money from her.",
+    "expected_sections": [
+      "IPC 420"
+    ]
+  },
+  {
+    "query": "A person intimidated another man that he would cause death of him if he didn't pay money. | fatality",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "A male accidentally murdered his friend while vehicleeless driving.",
+    "expected_sections": [
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "User reported: A person intentionally set fire to a neighbor's auto.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "A shopkeeper cheated a customer by giving fake gold.",
+    "expected_sections": [
+      "IPC 420"
+    ]
+  },
+  {
+    "query": "A person sold obscene magazines to a minor.",
+    "expected_sections": [
+      "IPC 293"
+    ]
+  },
+  {
+    "query": "A cyclist hit a pedestrian due to negligent riding causing injuries.",
+    "expected_sections": [
+      "IPC 337",
+      "IPC 338",
+      "IPC 279"
+    ]
+  },
+  {
+    "query": "User reported: A person damaged public property intentionally during a protest.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "A husband continually threatens and mentally abuses his wife. | intimidate",
+    "expected_sections": [
+      "IPC 498A",
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "A man touched a woman inappropriately on a crowded bus. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 354",
+      "IPC 509"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A person touched a lady inappropriately on a crowded bus.",
+    "expected_sections": [
+      "IPC 354",
+      "IPC 509"
+    ]
+  },
+  {
+    "query": "A father slapped his son and caused minor injuries.",
+    "expected_sections": [
+      "IPC 323"
+    ]
+  },
+  {
+    "query": "A person accidentally murdered his friend while autoeless driving. What sections apply?",
+    "expected_sections": [
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "A driver knocked a pedestrian while driving rashly and caused the person's death. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "A clerk stole confidential documents and sold them.",
+    "expected_sections": [
+      "IPC 381",
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "Five men surrounded a traveler on the highway and held up him. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 391",
+      "IPC 392",
+      "IPC 395"
+    ]
+  },
+  {
+    "query": "User reported: A shopkeeper defrauded a customer by giving fake gold.",
+    "expected_sections": [
+      "IPC 420"
+    ]
+  },
+  {
+    "query": "A person removed a motorcycle parked outside someone's house.",
+    "expected_sections": [
+      "IPC 379"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A person followed a lady and used insulting words toward her.",
+    "expected_sections": [
+      "IPC 509",
+      "IPC 354"
+    ]
+  },
+  {
+    "query": "A cyclist struck a pedestrian due to negligent riding causing injuries. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 337",
+      "IPC 338",
+      "IPC 279"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A man shouted obscene songs in a public market.",
+    "expected_sections": [
+      "IPC 291"
+    ]
+  },
+  {
+    "query": "A person held a blade to a female's neck and demanded money.",
+    "expected_sections": [
+      "IPC 392",
+      "IPC 324"
+    ]
+  },
+  {
+    "query": "If the following happened: A man falsely reported to police that his neighbor stole his bike.",
+    "expected_sections": [
+      "IPC 182"
+    ]
+  },
+  {
+    "query": "A person intentionally set fire to a neighbor's vehicle. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "A person spread obscene photos online. What sections apply?",
+    "expected_sections": [
+      "IPC 292"
+    ]
+  },
+  {
+    "query": "If the following happened: A man killed another man after planning the act for weeks.",
+    "expected_sections": [
+      "IPC 300",
+      "IPC 302"
+    ]
+  },
+  {
+    "query": "A person damaged public property intentionally during a protest. What sections apply?",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "A worker misused company funds that were entrusted to him. What sections apply?",
+    "expected_sections": [
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A person spread obscene photos online.",
+    "expected_sections": [
+      "IPC 292"
+    ]
+  },
+  {
+    "query": "A person took a motorcycle parked outside someone's house. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 379"
+    ]
+  },
+  {
+    "query": "A person mugged a female by snatching her purse on a deserted street.",
+    "expected_sections": [
+      "IPC 392"
+    ]
+  },
+  {
+    "query": "A mentally unstable person accidentally hurt someone while not understanding their actions. What sections apply?",
+    "expected_sections": [
+      "IPC 84"
+    ]
+  },
+  {
+    "query": "If the following happened: A person stabbed another with a broken bottle during a fight.",
+    "expected_sections": [
+      "IPC 324",
+      "IPC 325"
+    ]
+  },
+  {
+    "query": "A shop employee secretly stole money from the shop’s cash counter. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 381",
+      "IPC 379"
+    ]
+  },
+  {
+    "query": "A thief stole mobile phones from a shop at night. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "A mentally unstable person accidentally hurt someone while not understanding their actions. What sections apply?",
+    "expected_sections": [
+      "IPC 84"
+    ]
+  },
+  {
+    "query": "If the following happened: A person threatened to publish false allegations unless paid money.",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "A student took another student's laptop from the hostel room. What sections apply?",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "A person forcibly had sexual intercourse with a individual without her consent. What sections apply?",
+    "expected_sections": [
+      "IPC 375",
+      "IPC 376"
+    ]
+  },
+  {
+    "query": "A husband continually threatens and mentally abuses his wife. What sections apply?",
+    "expected_sections": [
+      "IPC 498A",
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "If the following happened: A man followed a woman and used insulting words toward her.",
+    "expected_sections": [
+      "IPC 509",
+      "IPC 354"
+    ]
+  },
+  {
+    "query": "A husband continually threatens and mentally abuses his wife. What sections apply?",
+    "expected_sections": [
+      "IPC 498A",
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "If the following happened: Someone stole jewellery from a locked cupboard inside a house.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A clerk removed confidential documents and sold them.",
+    "expected_sections": [
+      "IPC 381",
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "If the following happened: A person damaged public property intentionally during a protest.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "A man tried strangling another person but he survived.",
+    "expected_sections": [
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "If the following happened: A shopkeeper cheated a customer by giving fake gold.",
+    "expected_sections": [
+      "IPC 420"
+    ]
+  },
+  {
+    "query": "A person intentionally damaged CCTV cameras of a shop. What sections apply?",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "If the following happened: A individual forcibly had sexual intercourse with a female without her consent.",
+    "expected_sections": [
+      "IPC 375",
+      "IPC 376"
+    ]
+  },
+  {
+    "query": "A person forcibly had sexual intercourse with a individual without her consent. What sections apply?",
+    "expected_sections": [
+      "IPC 375",
+      "IPC 376"
+    ]
+  },
+  {
+    "query": "If the following happened: A man robbed a woman by snatching her purse on a deserted street.",
+    "expected_sections": [
+      "IPC 392"
+    ]
+  },
+  {
+    "query": "If the following happened: Six men broke into a home and robbed the family.",
+    "expected_sections": [
+      "IPC 391",
+      "IPC 392",
+      "IPC 395"
+    ]
+  },
+  {
+    "query": "A shop employee secretly removed money from the shop’s cash counter. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 381",
+      "IPC 379"
+    ]
+  },
+  {
+    "query": "User reported: A man held a knife to a woman's neck and demanded money.",
+    "expected_sections": [
+      "IPC 392",
+      "IPC 324"
+    ]
+  },
+  {
+    "query": "A husband physically beats his wife frequently. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 498A",
+      "IPC 323"
+    ]
+  },
+  {
+    "query": "A person stabbed another man during an argument but the victim survived with serious injuries.",
+    "expected_sections": [
+      "IPC 324",
+      "IPC 325",
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: Someone destroyed another person's car windshield intentionally.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "A man tried strangling another person but he survived. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "A drunk person caused a road accident by rash driving but no one died. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 279",
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "User reported: A cyclist knocked a pedestrian due to negligent riding causing injuries.",
+    "expected_sections": [
+      "IPC 337",
+      "IPC 338",
+      "IPC 279"
+    ]
+  },
+  {
+    "query": "In one case: Someone destroyed another person's auto windshield intentionally.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "A person damaged public property intentionally during a protest.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "A car driver sped through a red light and caused injuries to pedestrians.",
+    "expected_sections": [
+      "IPC 279",
+      "IPC 337"
+    ]
+  },
+  {
+    "query": "A person stabbed another with a broken bottle during a fight.",
+    "expected_sections": [
+      "IPC 324",
+      "IPC 325"
+    ]
+  },
+  {
+    "query": "If the following happened: A male held a blade to a lady's neck and demanded money.",
+    "expected_sections": [
+      "IPC 392",
+      "IPC 324"
+    ]
+  },
+  {
+    "query": "In one case: A driver hit a pedestrian while driving rashly and caused the person's death. | fatal",
+    "expected_sections": [
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "In one case: A cyclist hit a pedestrian due to negligent riding causing injuries.",
+    "expected_sections": [
+      "IPC 337",
+      "IPC 338",
+      "IPC 279"
+    ]
+  },
+  {
+    "query": "A shopkeeper cheated a customer by giving fake gold. What sections apply?",
+    "expected_sections": [
+      "IPC 420"
+    ]
+  },
+  {
+    "query": "If the following happened: A person sold pornographic videos illegally.",
+    "expected_sections": [
+      "IPC 292"
+    ]
+  },
+  {
+    "query": "If the following happened: A auto driver sped through a red light and caused injuries to pedestrians.",
+    "expected_sections": [
+      "IPC 279",
+      "IPC 337"
+    ]
+  },
+  {
+    "query": "A group of people broke into a house and stole valuables.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "A shopkeeper cheated a customer by giving fake gold.",
+    "expected_sections": [
+      "IPC 420"
+    ]
+  },
+  {
+    "query": "A woperson was scammed by a man who promised her a job and took money from her.",
+    "expected_sections": [
+      "IPC 420"
+    ]
+  },
+  {
+    "query": "In one case: A shopkeeper scammed a customer by giving fake gold.",
+    "expected_sections": [
+      "IPC 420"
+    ]
+  },
+  {
+    "query": "A person damaged public property intentionally during a protest. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "A husband physically beats his wife frequently.",
+    "expected_sections": [
+      "IPC 498A",
+      "IPC 323"
+    ]
+  },
+  {
+    "query": "A man exposed obscene content in front of children. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 292",
+      "IPC 293"
+    ]
+  },
+  {
+    "query": "A person removed a motorcycle parked outside someone's house.",
+    "expected_sections": [
+      "IPC 379"
+    ]
+  },
+  {
+    "query": "A man accidentally killed his friend while careless driving. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "If the following happened: A worker misused company funds that were entrusted to him.",
+    "expected_sections": [
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "A male forced a individual to kiss him against her will.",
+    "expected_sections": [
+      "IPC 354"
+    ]
+  },
+  {
+    "query": "User reported: A person damaged public property intentionally during a protest.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "A person kept threatening a shop owner to give him free products.",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "User reported: A businessman misused investment money entrusted to him.",
+    "expected_sections": [
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "A man robbed a woman by snatching her purse on a deserted street.",
+    "expected_sections": [
+      "IPC 392"
+    ]
+  },
+  {
+    "query": "A cyclist hit a pedestrian due to negligent riding causing injuries. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 337",
+      "IPC 338",
+      "IPC 279"
+    ]
+  },
+  {
+    "query": "A person warned to publish false allegations unless paid money. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "If the following happened: A man accidentally killed his friend while careless driving.",
+    "expected_sections": [
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "A person exposed obscene content in front of children. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 292",
+      "IPC 293"
+    ]
+  },
+  {
+    "query": "Someone destroyed another person's car windshield intentionally. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A person stole a motorcycle parked outside someone's house.",
+    "expected_sections": [
+      "IPC 379"
+    ]
+  },
+  {
+    "query": "If the following happened: A person held a blade to a lady's neck and demanded money.",
+    "expected_sections": [
+      "IPC 392",
+      "IPC 324"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A shop employee secretly stole money from the shop’s cash counter.",
+    "expected_sections": [
+      "IPC 381",
+      "IPC 379"
+    ]
+  },
+  {
+    "query": "In one case: A mentally unstable person accidentally hurt someone while not understanding their actions.",
+    "expected_sections": [
+      "IPC 84"
+    ]
+  },
+  {
+    "query": "A individual stabbed another man during an argument but the victim survived with serious injuries. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 324",
+      "IPC 325",
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "A man accidentally killed his friend while careless driving. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "A student stole another student's laptop from the hostel room. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "A person tried strangling another person but he survived.",
+    "expected_sections": [
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "If the following happened: A thief removed mobile phones from a shop at night.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "A person sold obscene magazines to a minor. What sections apply?",
+    "expected_sections": [
+      "IPC 293"
+    ]
+  },
+  {
+    "query": "A person touched a female inappropriately on a crowded bus. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 354",
+      "IPC 509"
+    ]
+  },
+  {
+    "query": "A person sold obscene magazines to a minor. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 293"
+    ]
+  },
+  {
+    "query": "A male tried to shoot another man but missed. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "A auto driver sped through a red light and caused injuries to pedestrians. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 279",
+      "IPC 337"
+    ]
+  },
+  {
+    "query": "A drunk individual caused a road accident by rash driving but no one died. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 279",
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "In one case: A person stabbed another with a broken bottle during a fight.",
+    "expected_sections": [
+      "IPC 324",
+      "IPC 325"
+    ]
+  },
+  {
+    "query": "A student gave false information to the police to get another student into trouble. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 182"
+    ]
+  },
+  {
+    "query": "If the following happened: A man killed another man after planning the act for weeks.",
+    "expected_sections": [
+      "IPC 300",
+      "IPC 302"
+    ]
+  },
+  {
+    "query": "If the following happened: A student gave false information to the police to get another student into trouble.",
+    "expected_sections": [
+      "IPC 182"
+    ]
+  },
+  {
+    "query": "User reported: A driver knocked a pedestrian while driving rashly and caused the person's death.",
+    "expected_sections": [
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "In one case: A group of people broke into a house and snatched valuables.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "A group threatened a shopkeeper to hand over money.",
+    "expected_sections": [
+      "IPC 506",
+      "IPC 392"
+    ]
+  },
+  {
+    "query": "A person kept threatening a shop owner to give him free products. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "A man tried strangling another person but he survived.",
+    "expected_sections": [
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "A male tried strangling another person but he survived.",
+    "expected_sections": [
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "A man shouted obscene songs in a public market.",
+    "expected_sections": [
+      "IPC 291"
+    ]
+  },
+  {
+    "query": "Someone destroyed another person's car windshield intentionally. What sections apply?",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "User reported: A person warned another man that he would slay him if he didn't pay money.",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "User reported: A man forced a woman to kiss him against her will.",
+    "expected_sections": [
+      "IPC 354"
+    ]
+  },
+  {
+    "query": "In one case: A father slapped his son and caused minor injuries.",
+    "expected_sections": [
+      "IPC 323"
+    ]
+  },
+  {
+    "query": "In one case: A husband physically beats his wife frequently.",
+    "expected_sections": [
+      "IPC 498A",
+      "IPC 323"
+    ]
+  },
+  {
+    "query": "If the following happened: A mentally unstable person accidentally hurt someone while not understanding their actions.",
+    "expected_sections": [
+      "IPC 84"
+    ]
+  },
+  {
+    "query": "User reported: A driver knocked a pedestrian while driving rashly and caused the person's death.",
+    "expected_sections": [
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "A criminal hid the weapon used in a crime to destroy evidence.",
+    "expected_sections": [
+      "IPC 201"
+    ]
+  },
+  {
+    "query": "In one case: Six men broke into a home and robbed the family.",
+    "expected_sections": [
+      "IPC 391",
+      "IPC 392",
+      "IPC 395"
+    ]
+  },
+  {
+    "query": "In one case: A person intentionally damaged CCTV cameras of a shop.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A man held a knife to a woman's neck and demanded money.",
+    "expected_sections": [
+      "IPC 392",
+      "IPC 324"
+    ]
+  },
+  {
+    "query": "In one case: A person sold pornographic videos illegally.",
+    "expected_sections": [
+      "IPC 292"
+    ]
+  },
+  {
+    "query": "In one case: A father slapped his son and caused minor injuries. | wounds",
+    "expected_sections": [
+      "IPC 323"
+    ]
+  },
+  {
+    "query": "A person spread obscene photos online.",
+    "expected_sections": [
+      "IPC 292"
+    ]
+  },
+  {
+    "query": "In one case: A person touched a female inappropriately on a crowded bus.",
+    "expected_sections": [
+      "IPC 354",
+      "IPC 509"
+    ]
+  },
+  {
+    "query": "In one case: Six men broke into a home and robbed the family.",
+    "expected_sections": [
+      "IPC 391",
+      "IPC 392",
+      "IPC 395"
+    ]
+  },
+  {
+    "query": "A shopkeeper cheated a customer by giving fake gold. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 420"
+    ]
+  },
+  {
+    "query": "In one case: A clerk took confidential documents and sold them.",
+    "expected_sections": [
+      "IPC 381",
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "User reported: A individual forcibly had sexual intercourse with a female without her consent.",
+    "expected_sections": [
+      "IPC 375",
+      "IPC 376"
+    ]
+  },
+  {
+    "query": "A male stabbed another man during an argument but the victim survived with serious injuries.",
+    "expected_sections": [
+      "IPC 324",
+      "IPC 325",
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "If the following happened: A father slapped his son and caused minor injuries.",
+    "expected_sections": [
+      "IPC 323"
+    ]
+  },
+  {
+    "query": "A person took a motorcycle parked outside someone's house.",
+    "expected_sections": [
+      "IPC 379"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A man stabbed another man during an argument but the victim survived with serious injuries.",
+    "expected_sections": [
+      "IPC 324",
+      "IPC 325",
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "A auto driver sped through a red light and caused injuries to pedestrians. What sections apply?",
+    "expected_sections": [
+      "IPC 279",
+      "IPC 337"
+    ]
+  },
+  {
+    "query": "A person cause death ofed another man after planning the act for weeks. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 300",
+      "IPC 302"
+    ]
+  },
+  {
+    "query": "If the following happened: A mentally unstable person accidentally hurt someone while not understanding their actions. | wounded",
+    "expected_sections": [
+      "IPC 84"
+    ]
+  },
+  {
+    "query": "If the following happened: A person intentionally set fire to a neighbor's vehicle.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "A male stabbed another man during an argument but the victim survived with serious injuries.",
+    "expected_sections": [
+      "IPC 324",
+      "IPC 325",
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "If the following happened: A student stole another student's laptop from the hostel room.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "A husband physically beats his wife frequently.",
+    "expected_sections": [
+      "IPC 498A",
+      "IPC 323"
+    ]
+  },
+  {
+    "query": "A husband physically beats his wife frequently. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 498A",
+      "IPC 323"
+    ]
+  },
+  {
+    "query": "A individual shouted obscene songs in a public market. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 291"
+    ]
+  },
+  {
+    "query": "In one case: A car driver sped through a red light and caused injuries to pedestrians.",
+    "expected_sections": [
+      "IPC 279",
+      "IPC 337"
+    ]
+  },
+  {
+    "query": "In one case: A worker misused company funds that were entrusted to him.",
+    "expected_sections": [
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "A husband physically beats his wife frequently. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 498A",
+      "IPC 323"
+    ]
+  },
+  {
+    "query": "A person threatened to publish false allegations unless paid money.",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "A man kept threatening a shop owner to give him free products. What sections apply?",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "A person stole a motorcycle parked outside someone's house.",
+    "expected_sections": [
+      "IPC 379"
+    ]
+  },
+  {
+    "query": "A male warned another man that he would slay him if he didn't pay money. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "User reported: A clerk snatched confidential documents and sold them.",
+    "expected_sections": [
+      "IPC 381",
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "A mentally unstable person accidentally hurt someone while not understanding their actions. | wounded",
+    "expected_sections": [
+      "IPC 84"
+    ]
+  },
+  {
+    "query": "If the following happened: A group menaced a shopkeeper to hand over money.",
+    "expected_sections": [
+      "IPC 506",
+      "IPC 392"
+    ]
+  },
+  {
+    "query": "If the following happened: Five men surrounded a traveler on the highway and robbed him.",
+    "expected_sections": [
+      "IPC 391",
+      "IPC 392",
+      "IPC 395"
+    ]
+  },
+  {
+    "query": "In one case: A person falsely reported to police that his neighbor removed his bike.",
+    "expected_sections": [
+      "IPC 182"
+    ]
+  },
+  {
+    "query": "A man tried strangling another person but he survived.",
+    "expected_sections": [
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "If the following happened: A group warned a shopkeeper to hand over money.",
+    "expected_sections": [
+      "IPC 506",
+      "IPC 392"
+    ]
+  },
+  {
+    "query": "A person spread obscene photos online. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 292"
+    ]
+  },
+  {
+    "query": "In one case: A group of people broke into a house and stole valuables.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "A shop employee secretly stole money from the shop’s cash counter.",
+    "expected_sections": [
+      "IPC 381",
+      "IPC 379"
+    ]
+  },
+  {
+    "query": "Five men surrounded a traveler on the highway and robbed him. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 391",
+      "IPC 392",
+      "IPC 395"
+    ]
+  },
+  {
+    "query": "If the following happened: A student stole another student's laptop from the hostel room.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "A person stabbed another with a broken bottle during a fight. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 324",
+      "IPC 325"
+    ]
+  },
+  {
+    "query": "A person sold obscene magazines to a minor. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 293"
+    ]
+  },
+  {
+    "query": "If the following happened: Someone destroyed another person's car windshield intentionally.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "If the following happened: A group of people broke into a house and stole valuables.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "A husband continually threatens and mentally abuses his wife.",
+    "expected_sections": [
+      "IPC 498A",
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "If the following happened: A husband continually threatens and mentally abuses his wife.",
+    "expected_sections": [
+      "IPC 498A",
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A businessmale misused investment money entrusted to him.",
+    "expected_sections": [
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "In one case: A male intimidated another man that he would murder him if he didn't pay money.",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "If the following happened: A man falsely reported to police that his neighbor stole his bike.",
+    "expected_sections": [
+      "IPC 182"
+    ]
+  },
+  {
+    "query": "If the following happened: A man robbed a woman by snatching her purse on a deserted street.",
+    "expected_sections": [
+      "IPC 392"
+    ]
+  },
+  {
+    "query": "User reported: A individual tried strangling another person but he survived.",
+    "expected_sections": [
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "User reported: A person damaged public property intentionally during a protest.",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "User reported: A group of people broke into a house and removed valuables.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "A man threatened another man that he would kill him if he didn't pay money. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "In one case: A person took a motorcycle parked outside someone's house.",
+    "expected_sections": [
+      "IPC 379"
+    ]
+  },
+  {
+    "query": "A student removed another student's laptop from the hostel room. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "In one case: A worker misused company funds that were entrusted to him.",
+    "expected_sections": [
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "A student took another student's laptop from the hostel room.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "If the following happened: A man tried to shoot another man but missed.",
+    "expected_sections": [
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "In one case: A person sold obscene magazines to a minor.",
+    "expected_sections": [
+      "IPC 293"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: Five men surrounded a traveler on the highway and mugged him.",
+    "expected_sections": [
+      "IPC 391",
+      "IPC 392",
+      "IPC 395"
+    ]
+  },
+  {
+    "query": "Six men broke into a home and mugged the family. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 391",
+      "IPC 392",
+      "IPC 395"
+    ]
+  },
+  {
+    "query": "A group warned a shopkeeper to hand over money.",
+    "expected_sections": [
+      "IPC 506",
+      "IPC 392"
+    ]
+  },
+  {
+    "query": "A man accidentally killed his friend while careless driving. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "User reported: A man tried to shoot another man but missed.",
+    "expected_sections": [
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "A thief took mobile phones from a shop at night. What sections apply?",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "If the following happened: A man killed another man after planning the act for weeks.",
+    "expected_sections": [
+      "IPC 300",
+      "IPC 302"
+    ]
+  },
+  {
+    "query": "A businessman misused investment money entrusted to him. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "A man tried to shoot another man but missed. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "A person stabbed another man during an argument but the victim survived with serious injuries. What sections apply?",
+    "expected_sections": [
+      "IPC 324",
+      "IPC 325",
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "In one case: A woperson was defrauded by a man who promised her a job and took money from her.",
+    "expected_sections": [
+      "IPC 420"
+    ]
+  },
+  {
+    "query": "A man threatened another man that he would kill him if he didn't pay money. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "In one case: A man robbed a woman by snatching her purse on a deserted street.",
+    "expected_sections": [
+      "IPC 392"
+    ]
+  },
+  {
+    "query": "A individual tried strangling another person but he survived. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "A person stabbed another with a broken bottle during a fight.",
+    "expected_sections": [
+      "IPC 324",
+      "IPC 325"
+    ]
+  },
+  {
+    "query": "User reported: A male forcibly had sexual intercourse with a lady without her consent.",
+    "expected_sections": [
+      "IPC 375",
+      "IPC 376"
+    ]
+  },
+  {
+    "query": "A group of people broke into a house and removed valuables. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "User reported: A male followed a female and used insulting words toward her.",
+    "expected_sections": [
+      "IPC 509",
+      "IPC 354"
+    ]
+  },
+  {
+    "query": "A man accidentally killed his friend while careless driving.",
+    "expected_sections": [
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "A person exposed obscene content in front of children. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 292",
+      "IPC 293"
+    ]
+  },
+  {
+    "query": "A male falsely reported to police that his neighbor snatched his bike. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 182"
+    ]
+  },
+  {
+    "query": "In one case: A individual murdered another man after planning the act for weeks.",
+    "expected_sections": [
+      "IPC 300",
+      "IPC 302"
+    ]
+  },
+  {
+    "query": "User reported: A person spread obscene photos online.",
+    "expected_sections": [
+      "IPC 292"
+    ]
+  },
+  {
+    "query": "User reported: A person shouted obscene songs in a public market.",
+    "expected_sections": [
+      "IPC 291"
+    ]
+  },
+  {
+    "query": "A man killed another man after planning the act for weeks.",
+    "expected_sections": [
+      "IPC 300",
+      "IPC 302"
+    ]
+  },
+  {
+    "query": "User reported: A man touched a woman inappropriately on a crowded bus.",
+    "expected_sections": [
+      "IPC 354",
+      "IPC 509"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A person stabbed another with a broken bottle during a fight.",
+    "expected_sections": [
+      "IPC 324",
+      "IPC 325"
+    ]
+  },
+  {
+    "query": "A person intentionally set fire to a neighbor's car. What sections apply?",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A man tried to shoot another man but missed.",
+    "expected_sections": [
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "Someone took jewellery from a locked cupboard inside a house. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "A clerk stole confidential documents and sold them. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 381",
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "Someone removed jewellery from a locked cupboard inside a house. What sections apply?",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "In one case: A person stole a motorcycle parked outside someone's house.",
+    "expected_sections": [
+      "IPC 379"
+    ]
+  },
+  {
+    "query": "User reported: A man kept threatening a shop owner to give him free products.",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "If the following happened: A criminal hid the weapon used in a crime to destroy evidence.",
+    "expected_sections": [
+      "IPC 201"
+    ]
+  },
+  {
+    "query": "A person sold pornographic videos illegally. What sections apply?",
+    "expected_sections": [
+      "IPC 292"
+    ]
+  },
+  {
+    "query": "In one case: A student gave false information to the police to get another student into trouble.",
+    "expected_sections": [
+      "IPC 182"
+    ]
+  },
+  {
+    "query": "In one case: A person snatched a motorcycle parked outside someone's house.",
+    "expected_sections": [
+      "IPC 379"
+    ]
+  },
+  {
+    "query": "A male forced a individual to kiss him against her will. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 354"
+    ]
+  },
+  {
+    "query": "A man threatened another man that he would kill him if he didn't pay money. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A person sold obscene magazines to a minor.",
+    "expected_sections": [
+      "IPC 293"
+    ]
+  },
+  {
+    "query": "A person touched a female inappropriately on a crowded bus. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 354",
+      "IPC 509"
+    ]
+  },
+  {
+    "query": "A male tried strangling another person but he survived. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 307"
+    ]
+  },
+  {
+    "query": "A drunk man caused a road accident by rash driving but no one died. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 279",
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "If the following happened: A male forced a individual to kiss him against her will.",
+    "expected_sections": [
+      "IPC 354"
+    ]
+  },
+  {
+    "query": "A criminal hid the weapon used in a crime to destroy evidence. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 201"
+    ]
+  },
+  {
+    "query": "In one case: A driver hit a pedestrian while driving rashly and caused the person's death. | fatal",
+    "expected_sections": [
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "A man falsely reported to police that his neighbor stole his bike. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 182"
+    ]
+  },
+  {
+    "query": "A criminal hid the weapon used in a crime to destroy evidence.",
+    "expected_sections": [
+      "IPC 201"
+    ]
+  },
+  {
+    "query": "A person exposed obscene content in front of children. What sections apply?",
+    "expected_sections": [
+      "IPC 292",
+      "IPC 293"
+    ]
+  },
+  {
+    "query": "A person intentionally set fire to a neighbor's vehicle. What sections apply?",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "A person intentionally damaged CCTV cameras of a shop. What sections apply?",
+    "expected_sections": [
+      "IPC 427"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: A person intimidated to publish false allegations unless paid money.",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "A clerk snatched confidential documents and sold them. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 381",
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "Explain applicable laws for: Five men surrounded a traveler on the highway and robbed him.",
+    "expected_sections": [
+      "IPC 391",
+      "IPC 392",
+      "IPC 395"
+    ]
+  },
+  {
+    "query": "User reported: A drunk man caused a road accident by rash driving but no one died.",
+    "expected_sections": [
+      "IPC 279",
+      "IPC 304A"
+    ]
+  },
+  {
+    "query": "User reported: A person spread obscene photos online.",
+    "expected_sections": [
+      "IPC 292"
+    ]
+  },
+  {
+    "query": "A group warned a shopkeeper to hand over money. What sections apply?",
+    "expected_sections": [
+      "IPC 506",
+      "IPC 392"
+    ]
+  },
+  {
+    "query": "A husband physically beats his wife frequently. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 498A",
+      "IPC 323"
+    ]
+  },
+  {
+    "query": "In one case: A person sold pornographic videos illegally.",
+    "expected_sections": [
+      "IPC 292"
+    ]
+  },
+  {
+    "query": "If the following happened: A man kept threatening a shop owner to give him free products.",
+    "expected_sections": [
+      "IPC 506"
+    ]
+  },
+  {
+    "query": "A businessman misused investment money entrusted to him. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "A clerk removed confidential documents and sold them. What sections apply?",
+    "expected_sections": [
+      "IPC 381",
+      "IPC 406"
+    ]
+  },
+  {
+    "query": "A group of people broke into a house and snatched valuables.",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "A individual shouted obscene songs in a public market. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 291"
+    ]
+  },
+  {
+    "query": "A woman was cheated by a man who promised her a job and took money from her. What sections apply?",
+    "expected_sections": [
+      "IPC 420"
+    ]
+  },
+  {
+    "query": "A person stabbed another with a broken bottle during a fight. Please identify the relevant IPC sections.",
+    "expected_sections": [
+      "IPC 324",
+      "IPC 325"
+    ]
+  },
+  {
+    "query": "Someone snatched jewellery from a locked cupboard inside a house. — which IPC sections would apply?",
+    "expected_sections": [
+      "IPC 380"
+    ]
+  },
+  {
+    "query": "If the following happened: A man robbed a woman by snatching her purse on a deserted street.",
+    "expected_sections": [
+      "IPC 392"
+    ]
+  }
+]

@@ -1,17 +1,157 @@
 [
   {
-    "section": "IPC 84",
-    "title": "Act of a person of unsound mind",
-    "text": "Nothing is an offence which is done by a person who, at the time of doing it, is, by reason of unsoundness of mind, incapable of knowing the nature of the act, or that he is doing what is either wrong or contrary to law."
+    "section": "IPC 300",
+    "title": "Murder (Definition)",
+    "text": "A culpable homicide is murder if the act is done with the intention of causing death, or with the intention of causing bodily injury that the offender knows is likely to cause death, or if the injury inflicted is sufficient in the ordinary course of nature to cause death."
   },
   {
     "section": "IPC 302",
-    "title": "Punishment for murder",
-    "text": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine."
+    "title": "Punishment for Murder",
+    "text": "Whoever commits murder shall be punished with death or imprisonment for life and shall also be liable to fine."
+  },
+  {
+    "section": "IPC 304",
+    "title": "Culpable Homicide Not Amounting to Murder",
+    "text": "Punishment for causing death without the intention to cause death or such bodily injury likely to cause death. May include imprisonment for life or up to ten years depending on the intention and knowledge."
+  },
+  {
+    "section": "IPC 307",
+    "title": "Attempt to Murder",
+    "text": "Whoever does any act with such intention or knowledge that, if it caused death, would be guilty of murder, shall be punished with imprisonment up to ten years, or imprisonment for life if hurt is caused."
+  },
+  {
+    "section": "IPC 323",
+    "title": "Voluntarily Causing Hurt",
+    "text": "Punishment for voluntarily causing bodily pain, disease, or infirmity to any person. Imprisonment may extend to one year or fine or both."
+  },
+  {
+    "section": "IPC 324",
+    "title": "Voluntarily Causing Hurt by Dangerous Weapons",
+    "text": "Whoever causes hurt using a dangerous weapon such as a knife, fire, acid, or any instrument capable of causing death shall be punished with imprisonment up to three years or fine or both."
+  },
+  {
+    "section": "IPC 325",
+    "title": "Voluntarily Causing Grievous Hurt",
+    "text": "Whoever voluntarily causes grievous hurt shall be punished with imprisonment up to seven years and fine."
+  },
+  {
+    "section": "IPC 326",
+    "title": "Voluntarily Causing Grievous Hurt by Dangerous Weapons",
+    "text": "Whoever causes grievous hurt using a dangerous weapon or means shall be punished with imprisonment for life or imprisonment up to ten years and fine."
+  },
+  {
+    "section": "IPC 354",
+    "title": "Assault or Criminal Force to Woman with Intent to Outrage Modesty",
+    "text": "Whoever assaults or uses criminal force on a woman intending to outrage her modesty shall be punished with imprisonment of one to five years and fine."
+  },
+  {
+    "section": "IPC 375",
+    "title": "Rape (Definition)",
+    "text": "Defines rape as sexual intercourse without consent, under coercion, misrepresentation, or when the woman is incapable of consent due to age or mental/physical state."
   },
   {
     "section": "IPC 376",
-    "title": "Punishment for rape",
-    "text": "Whoever commits rape shall be punished with rigorous imprisonment of not less than seven years, but which may extend to life, and shall also be liable to fine."
+    "title": "Punishment for Rape",
+    "text": "Whoever commits rape shall be punished with rigorous imprisonment of not less than ten years, extendable to life imprisonment, and shall also be liable to fine."
+  },
+  {
+    "section": "IPC 379",
+    "title": "Punishment for Theft",
+    "text": "Whoever commits theft shall be punished with imprisonment up to three years or fine or both."
+  },
+  {
+    "section": "IPC 380",
+    "title": "Theft in Dwelling House",
+    "text": "Whoever commits theft in a dwelling house, building, or place of custody shall be punished with imprisonment up to seven years and fine."
+  },
+  {
+    "section": "IPC 381",
+    "title": "Theft by Clerk or Servant",
+    "text": "If a clerk or servant commits theft of property in the possession of their employer, they shall be punished with imprisonment up to seven years and fine."
+  },
+  {
+    "section": "IPC 391",
+    "title": "Dacoity (Definition)",
+    "text": "When five or more persons conjointly commit or attempt to commit robbery, or are present for committing robbery, they are said to commit dacoity."
+  },
+  {
+    "section": "IPC 392",
+    "title": "Punishment for Robbery",
+    "text": "Whoever commits robbery shall be punished with rigorous imprisonment up to ten years and fine."
+  },
+  {
+    "section": "IPC 395",
+    "title": "Punishment for Dacoity",
+    "text": "Whoever commits dacoity shall be punished with imprisonment for life or rigorous imprisonment up to ten years and shall also be liable to fine."
+  },
+  {
+    "section": "IPC 406",
+    "title": "Criminal Breach of Trust",
+    "text": "Whoever dishonestly misappropriates or converts property entrusted to them shall be punished with imprisonment up to three years or fine or both."
+  },
+  {
+    "section": "IPC 420",
+    "title": "Cheating and Dishonestly Inducing Delivery of Property",
+    "text": "Whoever cheats and dishonestly induces a person to deliver property shall be punished with imprisonment up to seven years and fine."
+  },
+  {
+    "section": "IPC 427",
+    "title": "Mischief Causing Damage",
+    "text": "Whoever commits mischief and causes damage of fifty rupees or more shall be punished with imprisonment up to two years or fine or both."
+  },
+  {
+    "section": "IPC 498A",
+    "title": "Cruelty by Husband or Relatives",
+    "text": "Husband or relatives who subject a woman to cruelty—physical or mental harassment—shall be punished with imprisonment up to three years and fine."
+  },
+  {
+    "section": "IPC 506",
+    "title": "Criminal Intimidation",
+    "text": "Whoever threatens another with injury to person, reputation, or property, with intent to cause alarm, shall be punished with imprisonment up to two years or fine or both."
+  },
+  {
+    "section": "IPC 201",
+    "title": "Causing Disappearance of Evidence",
+    "text": "Whoever causes evidence of an offence to disappear or gives false information to screen an offender shall be punished based on the seriousness of the offence."
+  },
+  {
+    "section": "IPC 188",
+    "title": "Disobedience to Order Promulgated by Public Servant",
+    "text": "Whoever knowingly disobeys any order issued by a public servant and thereby causes danger or obstruction shall be punished with imprisonment or fine."
+  },
+  {
+    "section": "IPC 182",
+    "title": "False Information to Public Servant",
+    "text": "Whoever gives false information with the intent to cause a public servant to use their lawful powers to the injury of another shall be punished with imprisonment up to six months or fine."
+  },
+  {
+    "section": "IPC 304A",
+    "title": "Causing Death by Negligence",
+    "text": "Whoever causes death by doing any rash or negligent act not amounting to culpable homicide shall be punished with imprisonment up to two years or fine or both."
+  },
+  {
+    "section": "IPC 291",
+    "title": "Obscene Acts and Songs",
+    "text": "Whoever performs obscene acts or sings obscene songs in or near public places shall be punished with imprisonment up to three months or fine or both."
+  },
+  {
+    "section": "IPC 292",
+    "title": "Sale of Obscene Books or Objects",
+    "text": "Whoever sells, distributes, publicly exhibits, or circulates obscene materials shall be punished with imprisonment up to two years and fine."
+  },
+  {
+    "section": "IPC 293",
+    "title": "Sale of Obscene Objects to Young Persons",
+    "text": "Whoever sells obscene materials to a person under twenty years of age shall be punished with imprisonment up to three years and fine."
+  },
+  {
+    "section": "IPC 509",
+    "title": "Insulting the Modesty of a Woman",
+    "text": "Whoever utters a word, makes a gesture, or exhibits an object intended to insult the modesty of a woman shall be punished with imprisonment up to one year or fine or both."
+  },
+  {
+    "section": "IPC 84",
+    "title": "Act of a Person of Unsound Mind",
+    "text": "Nothing is an offence if the person, due to unsoundness of mind, is incapable of understanding the nature of the act or knowing that the act is wrong or contrary to law."
   }
 ]
